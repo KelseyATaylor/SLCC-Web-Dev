@@ -1,0 +1,22 @@
+{
+  "name": "htmlresumeproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KelseyATaylor/htmlResumeProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KelseyATaylor/htmlResumeProject/issues"
+  },
+  "homepage": "https://github.com/KelseyATaylor/htmlResumeProject#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
